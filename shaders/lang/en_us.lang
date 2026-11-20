@@ -1,0 +1,16 @@
+option.TORCH_BRIGHTNESS=Torch brightness
+option.TORCH_WARMTH=Torch warmth
+option.SHADOW_STRENGTH=Shadow strength
+option.ECLIPSE_STRENGTH=Atmosphere strength
+option.WAVE_HEIGHT=Wave height
+option.WAVE_SPEED=Wave speed
+option.WATER_OPACITY=Water opacity
+option.PLAYER_SHADOW=Player shadow (silhouette)
+option.PLAYER_SHADOW_STRENGTH=Player shadow darkness
+option.WET_REFLECTIONS=Rain: wet blocks
+option.WET_STRENGTH=Wetness strength
+option.WATER_TEXTURE=Water texture (vanilla)
+option.WATER_REFLECTION=Sky reflection on water
+option.ATMOSPHERE=Atmosphere style
+value.ATMOSPHERE.0=Eclipse
+value.ATMOSPHERE.1=Dark

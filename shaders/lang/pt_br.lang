@@ -1,0 +1,16 @@
+option.TORCH_BRIGHTNESS=Brilho das tochas
+option.TORCH_WARMTH=Calor da luz das tochas
+option.SHADOW_STRENGTH=Força das sombras
+option.ECLIPSE_STRENGTH=Intensidade da atmosfera
+option.WAVE_HEIGHT=Altura das ondas
+option.WAVE_SPEED=Velocidade das ondas
+option.WATER_OPACITY=Opacidade da água
+option.PLAYER_SHADOW=Sombra do jogador (silhueta)
+option.PLAYER_SHADOW_STRENGTH=Escuridão da sombra do jogador
+option.WET_REFLECTIONS=Chuva: blocos molhados
+option.WET_STRENGTH=Intensidade do molhado
+option.WATER_TEXTURE=Textura da água (vanilla)
+option.WATER_REFLECTION=Reflexo do céu na água
+option.ATMOSPHERE=Estilo da atmosfera
+value.ATMOSPHERE.0=Eclipse
+value.ATMOSPHERE.1=Sombrio
